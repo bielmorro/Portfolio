@@ -1,0 +1,77 @@
+body {
+    font-family: rubik-medium;
+  }
+
+  
+  body,
+  h1,
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  header {
+    align-items: center;
+    display: flex;
+
+  }
+  
+  
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+ 
+  
+  nav li {
+    list-style: none;
+  }
+
+
+
+
+
+#header-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0;
+    font-family: Rubik-Medium;
+    font-size: 18px;
+    color: #2F2F2F;
+    text-align: left;
+    line-height: 32px; 
+}
+
+
+.header{
+    
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.nav{
+    margin: 0 10%;
+}
+
+h1 {
+    font-family: Rubik-Light;
+    font-size: 20px;
+    color: #2F2F2F;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 34px; 
+}
+
+#hello{
+    font-family: Rubik-Medium;
+    font-size: 26px;
+    color: #2F2F2F;
+}
+
+.rectangle1{
+  
+
+}
